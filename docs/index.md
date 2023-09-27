@@ -3,8 +3,8 @@
 | Version    | [2023.x](https://peritia.rtfd.io)
 |------------|----------------------------------------------------------------------------
 | Web        | [Documentation📃](https://peritia.readthedocs.io/)
-| Download   | [Downloads](https://pypi.org/project/quo)
-| Source     | [Github](https://github.com/scalabli/quo)
+
+
 
 
 `Accessibility is not just a buzzword, it's a human right`
