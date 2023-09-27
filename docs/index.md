@@ -1,15 +1,15 @@
-[![Logo](https://raw.githubusercontent.com/scalabli/quo/master/pics/quo.png)](https://github.com/scalabli/quo)
+[![Logo](https://raw.githubusercontent.com/quantum-quirks/peritia/main/docs/images/peritia.png)](https://github.com/scalabli/quo)
 
-| Version    | [2023.x](https://quo.rtfd.io)
+| Version    | [2023.x](https://peritia.rtfd.io)
 |------------|----------------------------------------------------------------------------
-| Web        | [Documentation📃](https://quo.readthedocs.io/)
+| Web        | [Documentation📃](https://peritia.readthedocs.io/)
 | Download   | [Downloads](https://pypi.org/project/quo)
 | Source     | [Github](https://github.com/scalabli/quo)
 
 
-`Forever Scalable`
+`Accessibility is not just a buzzword, it's a human right`
 
-# Quo
+# Peritia
 
 **Quo** is a toolkit for writing Command-Line Interface(CLI) app
 lications and a TUI (Text User Interface) framework for Python.                                                                 Quo is making headway towards composing speedy and orderly CLI and TUI applications while forestalling any disappointments brought about by the failure to execute a python application.
