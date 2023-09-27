@@ -43,8 +43,8 @@ source_suffix = [".rst", ".md"]
 master_doc = "index"
 
 # General information about the project.
-project = "quo"
-copyright = "2023, Scalabli"
+project = "peritia"
+copyright = "2023, Peritia"
 author = "Gerrishon Sirere"
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -195,7 +195,7 @@ html_show_sphinx = False
 # html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = "quodoc"
+htmlhelp_basename = "peritiadoc"
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -215,8 +215,8 @@ latex_elements = {
 latex_documents = [
     (
         "index",
-        "quo.tex",
-        "Quo Documentation",
+        "peritia.tex",
+        "Peritia Documentation",
         "Gerrishon Sirere",
         "manual",
     ),
@@ -250,8 +250,8 @@ latex_documents = [
 man_pages = [
     (
         "index",
-        "quo",
-        "Quo Documentation",
+        "peritia",
+        "Peritia Documentation",
         ["Gerrishon Sirere"],
         1,
     )
@@ -269,10 +269,10 @@ man_pages = [
 texinfo_documents = [
     (
         "index",
-        "quo",
-        "Quo Documentation",
+        "peritia",
+        "Peritia Documentation",
         "Gerrishon Sirere",
-        "quo",
+        "peritia",
         "One line description of project.",
         "Miscellaneous",
     ),
