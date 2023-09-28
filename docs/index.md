@@ -37,7 +37,7 @@ Quo is **simple** If you know Python you can  easily use Quo and it can integrat
 ```{toctree}
 :maxdepth: 3
 :caption: Tutorials & Explanations
-introduction.rst
+introduction.md
 printing_text.rst
 bars.rst
 console.rst
