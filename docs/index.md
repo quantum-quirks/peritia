@@ -19,6 +19,14 @@ Simple to code, easy to learn, and does not come with needless baggage.
 Quo requires Python `3.8` or later. 
 
 
+What's New:
+
+- [x] ``Voice Command Capability``: We will integrate  a cutting-edge voice command feature across all Peritia applications. Users will be able to navigate, control, and interact with the suite using natural voice commands. This will empower individuals with motor impairments and those who prefer hands-free operation, enabling them to access information,and be productive without constant assistance.
+
+``Enhanced User Interface:`` We have further refined the user interface of Peritia Accessibility Suite to provide a clean, intuitive, and user-friendly experience. The streamlined design aims to minimize cognitive load and make navigation effortless for individuals with cognitive impairments.
+
+``Performance Enhancements and Bug Fixes:`` We are diligently working on improving the overall performance and stability of the suite. Several bugs identified are being addressed, ensuring a smoother experience across all applications.
+
 Features
 - [x] Support for ANSI, RGB and Hex color models
 - [x] Support for tabular presentation of data
