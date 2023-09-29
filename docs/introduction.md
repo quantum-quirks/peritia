@@ -33,10 +33,10 @@ Here's a list of available tools that makes Peritia the most versatile Accessibi
    :width: 700
    :alt: Neurolearn Sculptura screenshot.
 
-- ``Neurolearn Sculptura`` is a creative and unique word derived from the word *sculpture*. In the context of a 3D objects animation app, Sculptura implies the idea of sculpting and shaping 3D objects in a digital environment, allowing users to manipulate objects in a three-dimensional space. It combines elements of sculpture and digital artistry.
+- ``Neurolearn Sculptura`` Sculptura implies the idea of sculpting and shaping 3D objects in a digital environment, allowing users to manipulate objects in a three-dimensional space. It combines elements of sculpture and digital artistry.
 
 
-.. image:: ./images/blindsight.png
+.. image:: ./images/blindsight_onboarding.png
    :width: 100
 - ``Blindsight`` *(By harnessing the power of computer vision and AI, Blindsight offers a comprehensive suite of features to dect and interpret images, objects and scenes in realtime. By simply pointing out their smartphone camera toards an object or document, users will receive instant audio feedack describing the items characteristics. It is useful for individuals with vision impairments)*
 
