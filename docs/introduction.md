@@ -29,12 +29,11 @@ Here's a list of available tools that makes Peritia the most versatile Accessibi
 
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/quantum-quirks/peritia/main/docs/images/sculptura/sculptura_chandelier.png" width="700" />
+</p>
 
 
-
-.. image:: ./images/sculptura/sculptura_chandelier.png
-   :width: 700
-   :alt: Neurolearn Sculptura screenshot.
 
 - ``Neurolearn Sculptura`` Sculptura implies the idea of sculpting and shaping 3D objects in a digital environment, allowing users to manipulate objects in a three-dimensional space. It combines elements of sculpture and digital artistry.
 
@@ -42,7 +41,7 @@ Here's a list of available tools that makes Peritia the most versatile Accessibi
    
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/quantum-quirks/peritia/main/docs/images/blindsight/blindsight_onboarding.png" />
+  <img src="https://raw.githubusercontent.com/quantum-quirks/peritia/main/docs/images/blindsight/blindsight_onboarding.png" width="100" height="400" />
 </p>
 
 - ``Blindsight`` *(By harnessing the power of computer vision and AI, Blindsight offers a comprehensive suite of features to dect and interpret images, objects and scenes in realtime. By simply pointing out their smartphone camera toards an object or document, users will receive instant audio feedack describing the items characteristics. It is useful for individuals with vision impairments)*
