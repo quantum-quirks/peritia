@@ -32,6 +32,7 @@ Here's a list of available tools that makes Peritia the most versatile Accessibi
 <p align="center">
   <img src="https://raw.githubusercontent.com/quantum-quirks/peritia/main/docs/images/sculptura/sculptura_chandelier.png" width="700" />
 </p>
+<p align="center"><em style="color: blue;">Neurolearn Sculptura | 3D view of a chandelier.</em></p>
 
 
 
@@ -41,10 +42,10 @@ Here's a list of available tools that makes Peritia the most versatile Accessibi
    
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/quantum-quirks/peritia/main/docs/images/blindsight/blindsight_onboarding.png" width="100" height="400" />
+  <img src="https://raw.githubusercontent.com/quantum-quirks/peritia/main/docs/images/blindsight/blindsight_onboarding.png" width="300" height="600" />
 </p>
 
-- ``Blindsight`` *(By harnessing the power of computer vision and AI, Blindsight offers a comprehensive suite of features to dect and interpret images, objects and scenes in realtime. By simply pointing out their smartphone camera toards an object or document, users will receive instant audio feedack describing the items characteristics. It is useful for individuals with vision impairments)*
+- ``Blindsight`` *(By harnessing the power of computer vision and AI, Blindsight offers a comprehensive suite of features to detect and interpret images, objects and scenes in realtime. By simply pointing out their smartphone camera towards an object or document, users will receive instant audio feedback describing the items characteristics. It is useful for individuals with vision impairments)*
 
 
 In the coming months we will introduce *Version 2023.3* of Peritia Accessibility Suite. This release will introduce a range of new features and improvements aimed at providing a seamless user experience and increasing independence for our valued users.
