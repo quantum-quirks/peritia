@@ -1,4 +1,4 @@
-[![Logo](https://raw.githubusercontent.com/quantum-quirks/peritia/main/docs/images/peritia.png)](https://github.com/scalabli/quo)
+[![Logo](https://raw.githubusercontent.com/quantum-quirks/peritia/main/docs/images/peritia.png)](https://peritia.rtfd.io)
 
 | Version    | [2023.x](https://peritia.rtfd.io)
 |------------|----------------------------------------------------------------------------
