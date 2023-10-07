@@ -11,12 +11,6 @@
 
 # Peritia
 
-**Quo** is a toolkit for writing Command-Line Interface(CLI) app
-lications and a TUI (Text User Interface) framework for Python.                                                                 Quo is making headway towards composing speedy and orderly CLI and TUI applications while forestalling any disappointments brought about by the failure to execute a python application.
-
-Simple to code, easy to learn, and does not come with needless baggage. 
-
-Quo requires Python `3.8` or later. 
 
 
 What's New:
@@ -26,21 +20,6 @@ What's New:
 ``Enhanced User Interface:`` We have further refined the user interface of Peritia Accessibility Suite to provide a clean, intuitive, and user-friendly experience. The streamlined design aims to minimize cognitive load and make navigation effortless for individuals with cognitive impairments.
 
 ``Performance Enhancements and Bug Fixes:`` We are diligently working on improving the overall performance and stability of the suite. Several bugs identified are being addressed, ensuring a smoother experience across all applications.
-
-Features
-- [x] Support for ANSI, RGB and Hex color models
-- [x] Support for tabular presentation of data
-- [x] Intuitive progressbars
-- [x] Code completions
-- [x] Parsing and nesting of commands
-- [x] Customizable Text User Interface _(TUI)_ dialogs
-- [x] Automatic help page generation
-- [x] Syntax highlighting
-- [x] Autosuggestions
-- [x] Key Binders
-
-
-Quo is **simple** If you know Python you can  easily use Quo and it can integrate with just about anything.
 
 ```{toctree}
 :maxdepth: 3
@@ -72,30 +51,6 @@ appendix.rst
 ```
 
 
-## Donate🎁
-
-In order to for us to maintain this project and grow our community of contributors.
-[Donate](https://ko-fi.com/scalabli)
-
-
-
-## Getting Help
-
-### Community
-
-For discussions about the usage, development, and the future of quo, please join our Google community
-
-* [Community👨‍👩‍👦‍👦](https://groups.google.com/g/scalabli)
-
-## Resources
-
-### Bug tracker
-
-If you have any suggestions, bug reports, or annoyances please report them
-to our issue tracker at 
-[Bug tracker](https://github.com/scalabli/quo/issues/) or send an email to:
-
- 📥 scalabli@proton.me | scalabli@googlegroups.com
 
 
 
